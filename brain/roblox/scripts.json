@@ -1,0 +1,15 @@
+{
+  "localscript": {
+    "definicion": "script que corre en el cliente",
+    "uso": "interfaces, botones, GUI",
+    "ejemplo": "abrir un frame con un boton"
+  },
+  "script": {
+    "definicion": "script que corre en el servidor",
+    "uso": "logica del juego"
+  },
+  "remoteevent": {
+    "definicion": "comunicacion entre cliente y servidor",
+    "uso": "FireServer, OnServerEvent"
+  }
+}
