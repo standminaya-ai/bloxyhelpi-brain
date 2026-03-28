@@ -1,0 +1,10 @@
+{
+  "hacer": "peticion",
+  "crear": "peticion",
+  "quiero": "peticion",
+  "necesito": "peticion",
+  "como": "pregunta",
+  "que": "definicion",
+  "para que": "uso",
+  "por que": "explicacion"
+}
